@@ -25,7 +25,7 @@ A Microsoft Azure account with the Outlook API enabled and OAuth 2.0 credentials
 Clone the repository
 Download the 'Config.json' file provided
 Retrieve the OAuth credentials and then upload them as 'client_secret'.
-Execute the Python script - 'EmailReply.ipynb'
+Execute the Python script - 'GmailReply.ipynb'
 
 *Usage*
 
